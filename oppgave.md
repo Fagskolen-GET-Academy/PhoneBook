@@ -31,7 +31,7 @@ søk
 
 avslutt
 
-Design Pause (5–10 minutter – før du koder)
+Design Pause (5–10 minutter før du koder)
 
 Før du begynner å skrive kode, skal du bruke 5–10 minutter på å tenke gjennom designet.
 
@@ -57,7 +57,7 @@ Hvis du trenger flere grunner → klassen gjør sannsynligvis for mye.
 
 Viktig:
 
-Du trenger ikke skrive kode i denne fasen.
+ikke skriv kode i denne fasen.
 
 Dette er kun for å bevisstgjøre deg om struktur og ansvar før implementasjon.
 
