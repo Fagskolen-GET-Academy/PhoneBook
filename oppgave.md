@@ -43,7 +43,7 @@ Skriv ned hvilke forskjellige ansvar applikasjonen har
 
 Foreslå klasser
 
-Lag en enkel liste over 2–5 klasser du mener bør finnes.
+Lag en enkel liste over klasser du mener bør finnes.
 
 Gi hver klasse et navn og én setning som beskriver ansvaret.
 
