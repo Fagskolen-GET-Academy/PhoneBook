@@ -39,8 +39,7 @@ Gjør følgende:
 
 Identifiser ansvar
 
-Skriv ned hvilke forskjellige ansvar telefonbok-applikasjonen har
-(f.eks. lagring, søk, brukerinteraksjon, filhåndtering).
+Skriv ned hvilke forskjellige ansvar applikasjonen har
 
 Foreslå klasser
 
@@ -48,7 +47,7 @@ Lag en enkel liste over 2–5 klasser du mener bør finnes.
 
 Gi hver klasse et navn og én setning som beskriver ansvaret.
 
-SRP-sjekk
+SRP-sjekk:
 
 For hver klasse, svar kort:
 
