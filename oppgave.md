@@ -8,7 +8,7 @@ navn
 
 telefonnummer
 
-Kontakten skal lagres i programmets minne.
+Kontakten skal lagres.
 
 2. Liste alle kontakter
 
